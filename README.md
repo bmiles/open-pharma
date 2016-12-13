@@ -38,3 +38,6 @@ https://github.com/pfizer
 
 ## Recursion Pharma
 https://github.com/recursionpharma
+
+## Regeneron Genetics Centre
+https://github.com/rgcgithub
