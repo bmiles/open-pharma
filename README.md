@@ -35,6 +35,7 @@ https://github.com/Novartis
 
 ## Pfizer
 https://github.com/pfizer
+https://github.com/pfizerrd
 
 ## Recursion Pharma
 https://github.com/recursionpharma
